@@ -1,0 +1,63 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "99aa4768143efb39404b6286127ecb48",
+    "packages": [
+        {
+            "name": "jinhongtl/lottery",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jinhongtl/lottery.git",
+                "reference": "12ab2a9c4315e83ac86f5f562ce3825f2063df9b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jinhongtl/lottery/zipball/12ab2a9c4315e83ac86f5f562ce3825f2063df9b",
+                "reference": "12ab2a9c4315e83ac86f5f562ce3825f2063df9b",
+                "shasum": ""
+            },
+            "type": "framework",
+            "autoload": {
+                "psr-4": {
+                    "lottery\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "jinhongtl",
+                    "email": "jinhongtl@163.com"
+                }
+            ],
+            "description": " Lottery framework ",
+            "keywords": [
+                "framework",
+                "helper",
+                "lottery"
+            ],
+            "support": {
+                "forum": "https://github.com/jinhongtl/lottery",
+                "issues": "https://github.com/jinhongtl/lottery",
+                "source": "https://github.com/jinhongtl/lottery",
+                "wiki": "https://github.com/jinhongtl/lottery"
+            },
+            "time": "2022-04-15T08:08:17+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

@@ -1,0 +1,37 @@
+{
+   
+    "name": "jinhongtl/yii2-lottery",
+    "type": "yii2-extension",
+    "description": "Yii2 Lottery Extension ",
+    "keywords": ["extension", "lottery", "helper","yii2"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/jinhongtl/yii2-lottery",
+        "forum": "https://github.com/jinhongtl/yii2-lottery",
+        "wiki": "https://github.com/jinhongtl/yii2-lottery",
+        "irc": "https://github.com/jinhongtl/yii2-lottery",
+        "source": "https://github.com/jinhongtl/yii2-lottery"
+    },
+    "authors": [
+        {
+            "name": "jinhongtl",
+            "email": "jinhongtl@163.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "yii2\\lottery\\": "src"
+        }
+    },
+
+    "require": {
+        "jinhongtl/lottery": "^1.0"
+    },
+
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    }
+}
